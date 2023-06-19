@@ -1723,4 +1723,11 @@ input:checked + .slider:before {
     margin-right: 10px;
     margin-bottom: 15px;
 }
+.service-desc-ellip {
+    overflow: hidden;
+   display: -webkit-box;
+   -webkit-line-clamp: 1; /* number of lines to show */
+    line-clamp: 1; 
+   -webkit-box-orient: vertical;
+}
 /* Service page end */

@@ -8,7 +8,7 @@ const ServiceCard = ({service, selectedId, setSelectedId}) => {
                     <img alt="service-pic" src={service.servicePic} className="service-pic"/>
                     <div className="service-card-text">
                         <h4>{service.serviceName?service.serviceName:"???"}</h4>
-                        <p>{service.serviceDesc}</p>
+                        <p className='service-desc-ellip'>{service.serviceDesc}</p>
                         <p>{service.serviceDuration} Hour</p>
                         <p>RM {service.servicePrice}</p>
                     </div>
