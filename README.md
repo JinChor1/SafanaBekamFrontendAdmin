@@ -22,13 +22,13 @@
 
 
 ### Dashboard
-![image](https://github.com/JinChor1/SafanaBekamFrontendAdmin/assets/136385395/e7916b09-de10-4c84-a9ee-7e4c081a6086)
+![image](https://github.com/JinChor1/SafanaBekamFrontendAdmin/assets/136385395/65aa95ba-7c94-4744-af92-5fa8dd94bb26)
 
 ### Calendar
-![image](https://github.com/JinChor1/SafanaBekamFrontendAdmin/assets/136385395/045c9aeb-63d6-437e-8226-5876a3026d72)
+![image](https://github.com/JinChor1/SafanaBekamFrontendAdmin/assets/136385395/f888ec18-b83b-4d05-b46a-91233e0b433e)
 
 ### Human Body Map
-![image](https://github.com/JinChor1/SafanaBekamFrontendAdmin/assets/136385395/a65878b6-80c1-4207-8bfd-fa04f052d095)
+![image](https://github.com/JinChor1/SafanaBekamFrontendAdmin/assets/136385395/5c59bdd0-2f47-40c4-b02f-5db6156d14cb)
 
 
 <!-- Getting Started -->
